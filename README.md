@@ -1,4 +1,7 @@
 # Chimay-Red
+
+### :warning: This is a fork to the [potato.sh](https://github.com/potato-sh) organization for my blog and portfolio purposes, I created this software in 2018 and Seekintoo still retains the legal rights to it. You can verify this in the commit information.
+
 Mikrotik RouterOS (6.x < 6.38.5) exploit kit. Reverse engineered from the "Vault 7" WikiLeaks publication.
 
 To learn more about the creation and purpose of this software, please visit: [http://blog.seekintoo.com/chimay-red.html](http://blog.seekintoo.com/chimay-red.html)
